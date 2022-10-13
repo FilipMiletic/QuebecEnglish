@@ -1,4 +1,4 @@
-# QuebecEnglish
+# Semantic shifts in Quebec English
 
 This repository contains resources related to computational modeling of contact-induced semantic shifts in Quebec English, developed in the following PhD thesis:
 
